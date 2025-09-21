@@ -1,0 +1,71 @@
+[{
+    "name": "Rumtek Monastery",
+    "lat": 27.3167,
+    "lng": 88.6167,
+    "photo": "https://www.trawell.in/admin/images/upload/723415296Gangtok_Rumtek_Monastery_Main.jpg",
+    "detailPage": "/monasteries/rumtek"
+  },
+  {
+    "name": "Pemayangtse Monastery",
+    "lat": 27.2994,
+    "lng": 88.2397,
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Main_Shrine_of_Pemangytse_Gompa_with_prayer_flags.jpg/500px-Main_Shrine_of_Pemangytse_Gompa_with_prayer_flags.jpg",
+    "detailPage": "/monasteries/pemayangtse"
+  },
+  {
+    "name": "Enchey Monastery",
+    "lat": 27.3389,
+    "lng": 88.6139,
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Enchey_Monastery_in_Gangtok_district%2C_East_Sikkim.jpg/500px-Enchey_Monastery_in_Gangtok_district%2C_East_Sikkim.jpg",
+    "detailPage": "/monasteries/enchey"
+  },
+  {
+    "name": "Tashiding Monastery",
+    "lat": 27.2914,
+    "lng": 88.2756,
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Mani_stone_slabs_outside_Tashiding_Monastery.jpg/500px-Mani_stone_slabs_outside_Tashiding_Monastery.jpg",
+    "detailPage": "/monasteries/tashiding"
+  },
+  {
+    "name": "Ralong Monastery",
+    "lat": 27.2811,
+    "lng": 88.6119,
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Ralong_monastery_-_top_view.jpg/500px-Ralong_monastery_-_top_view.jpg",
+    "detailPage": "/monasteries/ralong"
+  },
+  {
+    "name": "Phodong Monastery",
+    "lat": 27.4098,
+    "lng": 88.5886,
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Phodong_monastery_-_north_sikkim.jpg/500px-Phodong_monastery_-_north_sikkim.jpg",
+    "detailPage": "/monasteries/phodong"
+  },
+  {
+    "name": "Lingdum Monastery",
+    "lat": 27.3181,
+    "lng": 88.6414,
+    "photo": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nr1yveckDxVZOYecOHijql-M_2IEbRTz1LvoSpTb0OxIIfV8CmAMyxBI7TscbjMkrcbiC9tntSkggPts7Rz3BcBw8Uafw-iohFsSycNreSC8wJtxy0UJCpGqpTz4WFL93i_Qr-2=w243-h203-n-k-no-nu",
+    "detailPage": "/monasteries/lingdum"
+  },
+  {
+    "name": "Zang Dhok Palri Monastery",
+    "lat": 27.3112,
+    "lng": 88.2417,
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Zang_Dhok_Palri_Phodang_01.jpg/500px-Zang_Dhok_Palri_Phodang_01.jpg",
+    "detailPage": "/monasteries/zangdhok"
+  },
+  {
+    "name": "Dubdi Monastery",
+    "lat": 27.2975,
+    "lng": 88.2253,
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Dubdi_Monastery_2.jpg/500px-Dubdi_Monastery_2.jpg",
+    "detailPage": "/monasteries/dubdi"
+  },
+  {
+    "name": "Khecheopalri Monastery",
+    "lat": 27.3247,
+    "lng": 88.2044,
+    "photo": "https://c8.alamy.com/comp/2HT929R/tashi-choling-dharma-centre-khecheopalri-west-sikkim-india-2HT929R.jpg",
+    "detailPage": "/monasteries/khecheopalri"
+  }]
+
